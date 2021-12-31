@@ -1,0 +1,6 @@
+Generated token: 
+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
+
+
+Github url for CommutebuddyClient: 
+https://github.com/mnomanali/CommutebuddyClient.git
